@@ -1,6 +1,6 @@
 # Introduction to Data Analysis with Python
 
-July 15-19, 2024
+July 16-20, 2024
 
 Instructor: Dr. M. Fuat Kına
 
