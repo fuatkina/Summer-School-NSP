@@ -16,7 +16,7 @@ Apply basic statistical methods to real-world social science data.
 
 ## Summer School Details:
 
-Dates: July 15-19, 2024 / 10:00 AM to 3:00 PM
+Dates: July 16-20, 2024 / 10:00 AM to 3:00 PM
 
 Location: Marmara University, Göztepe Campus
 
